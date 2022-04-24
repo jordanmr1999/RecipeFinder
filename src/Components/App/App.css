@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  /*min-height: 5vh;*/
+  background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+  max-width: 100%;
+}

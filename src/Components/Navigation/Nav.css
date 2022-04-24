@@ -1,0 +1,10 @@
+.bar-item {
+    display: inline;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.nav-btn {
+    border: none;
+    background: none;
+}
